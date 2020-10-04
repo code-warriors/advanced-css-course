@@ -1,0 +1,7 @@
+1.  background-position: top; 
+means when changing the image responsive or height or width, the top position remain same
+and other position like center and bottom changes.
+
+2.  clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+means the part of the image we want to clip it is having the four coordinated having all the 
+direction of the image (x, y)
